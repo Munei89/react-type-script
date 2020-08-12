@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3793d88b-d6b0-4af0-8b2c-d0380ea101ed" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/react-users.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-overrides.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report.20200812.051959.56743.0.001.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/configs/i18n.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/configs/routes.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/general.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layout/header/Header.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layout/header/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layout/header/styles.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/locales/en/constants/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/locales/en/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/locales/en/layout/header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/locales/en/layout/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/locales/en/screens/home.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/locales/en/screens/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/locales/en/shared/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/locales/en/shared/search_bar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react-app-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/actions/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/actions/list.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/api/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/api/list.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/reducers/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/reducers/list.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/sagas/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/sagas/list.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/store.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/schemas/Item.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/schemas/ReducerStates.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/home/Home.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/home/Home.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/components/data_entry/ListItem/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/components/data_entry/ListItem/styles.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/icons/LogoIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/base.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/generic.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/settings.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/tools.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/trumps.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/helpers.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.paths.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.prettierrc" beforeDir="false" afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.stylelintrc" beforeDir="false" afterPath="$PROJECT_DIR$/.stylelintrc" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fysITNVhz4ZacCTur7vjQltP3d" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3793d88b-d6b0-4af0-8b2c-d0380ea101ed" name="Default Changelist" comment="" />
+      <created>1597201586891</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597201586891</updated>
+      <workItem from="1597201589187" duration="1011000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="558" y="334" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597202563415">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="558" y="334" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050/-1920.0.1920.1080@0.0.1680.1050" timestamp="1597202563415" />
+  </component>
+</project>
