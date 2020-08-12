@@ -1,0 +1,13 @@
+@import './styles/generic';
+@import './styles/base';
+
+//components
+@import './styles/main.scss';
+@import './layout/sidebar/sidebar.scss';
+@import './shared/components/spinner/spinner.scss';
+@import './shared/components/userDetails/user-details.scss';
+@import './shared/components/userDetails/userDetailsInfo/user-details-info.scss';
+
+//pages scss
+@import './screens/dashboard/dashboard.scss';
+@import './screens/reports/reports.scss';
