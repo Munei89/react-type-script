@@ -1,11 +1,13 @@
-# React Users Ant Design
+To enable fetching data from json placeholder you have to create .env file in root level of project.
 
-React Users in Ant Design UI framework
+# React TypeScript Ant Design Boilerplate
+
+React Boilerplate using TypeScript and Ant Design. This boilerplate uses [Create React App](https://github.com/facebook/create-react-app)
 
 ## Features
 
 - TypeScript language
-- SCSS for styling
+- LESS for styling
 - Airbnb's JavaScript (ES6) style guide.
 - TSlint for TypeScript and StyleLint for LESS
 - Prettier for code formatter
@@ -16,12 +18,12 @@ React Users in Ant Design UI framework
 
 - [Antd](https://ant.design/) as UI framework.
 - [Jest](https://jestjs.io/) as as test framework.
-- [SCSS](https://sass-lang.com/) as CSS preprocessing.
+- [LESS](http://lesscss.org/) as CSS preprocessing.
 - [Prettier](https://prettier.io/) for code formatter.
 - [React](https://facebook.github.io/react/) as front-end view library.
 - [Redux](https://redux.js.org/) for state container.
 - [Redux-Saga](https://github.com/redux-saga/redux-saga) to fetching asynchronous data with redux.
-- [StyleLint](https://stylelint.io/) for SCSS linting.
+- [StyleLint](https://stylelint.io/) for LESS linting.
 - [TSlint](https://palantir.github.io/tslint/) for TypeScript linting using Airbnb's JS style guide.
 - [TypeScript](https://www.typescriptlang.org/) as main language.
 
@@ -29,9 +31,9 @@ React Users in Ant Design UI framework
 
 Run the following commands in your terminal
 
-Add `.env` file to root folder with <br /> `REACT_APP_BASE_URL="https://jsonplaceholder.typicode.com"`
-
 ```bash
+git clone https://github.com/LucasBassetti/react-typescript-antd-boilerplate.git
+cd react-typescript-antd-boilerplate
 yarn install
 yarn start
 ```
@@ -40,15 +42,12 @@ Then open [http://localhost:3000/](http://localhost:3000/) on your web browser.
 
 ### Testing
 
-1. Run `npm test` for test.
+1. Run `yarn test` for test.
 
 ## Deploying
 
-For deployment, run `npm run build` and upload `build/` to your server.
-
-## Credit
-React TypeScript Ant Design Boilerplate · [Lucas Bassetti](http://lucasbassetti.com.br)
+For deployment, run `yarn run build` and upload `build/` to your server.
 
 ## License
-[MIT](https://opensource.org/licenses/MIT)
 
+MIT · [Lucas Bassetti](http://lucasbassetti.com.br)
