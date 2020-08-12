@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Sidebar from './index';
+import Sidebar from '.';
 import { MemoryRouter } from 'react-router';
 
 it('renders without crashing on dashboard route', () => {
