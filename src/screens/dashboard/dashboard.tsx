@@ -3,6 +3,7 @@ import Spinner from '../../shared/components/spinner';
 import UserDetails from '../../shared/components/userDetails/index';
 import { useSelector, useDispatch } from 'react-redux';
 import { fetchList } from '@redux/actions';
+import styles from './dashboard.module.scss';
 
 type Props = {};
 
@@ -27,7 +28,7 @@ const Dashboard: React.FC<Props> = () => {
 
   return (
     <>
-      <div className="dashboard">
+      <div className={styles['dashboard']}>
         <div>Dashboard</div>
         {fetching && <Spinner />}
         {!fetching && <UserDetails user={list[0]} />}

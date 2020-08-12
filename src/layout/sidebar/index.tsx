@@ -1,9 +1,9 @@
 import React from 'react';
-import { Menu } from 'antd';
-import { ControlFilled, AreaChart } from '@ant-design/icons';
+import { Layout, Menu } from 'antd';
 import { RouteComponentProps, withRouter } from 'react-router';
 import { NavLink } from 'react-router-dom';
 
+const { Sider } = Layout;
 // Type whatever you expect in 'this.props.match.params.*'
 type PathParamsType = {
   param1: string;
@@ -21,26 +21,32 @@ class Sidebar extends React.Component<PropsType> {
   render() {
     const { location } = this.props;
     const { collapsed } = this.state;
+
     return (
-      <Menu
-        className="sidebar"
-        defaultSelectedKeys={[location.pathname]}
-        inlineCollapsed={collapsed}
-        mode="inline"
+      <Sider
+        breakpoint="lg"
+        collapsedWidth="0"
+        onBreakpoint={broken => {
+          console.log(broken);
+        }}
+        onCollapse={(collapsed, type) => {
+          console.log(collapsed, type);
+        }}
       >
-        <Menu.Item key="/dashboard" className="sidebar-first-item">
-          <NavLink to="/dashboard">
-            <ControlFilled />
-            <span>Dashboard</span>
-          </NavLink>
-        </Menu.Item>
-        <Menu.Item key="/reports">
-          <NavLink to="/reports">
-            <AreaChart />
-            <span>Reports</span>
-          </NavLink>
-        </Menu.Item>
-      </Menu>
+        <div className="logo">
+          <h2>
+            Bank<strong>Now</strong>
+          </h2>
+        </div>
+        <Menu theme="dark" mode="inline" defaultSelectedKeys={[location.pathname]}>
+          <Menu.Item key="/dashboard">
+            <NavLink to="/dashboard">Dashboard</NavLink>
+          </Menu.Item>
+          <Menu.Item key="/reports">
+            <NavLink to="/reports">Reports</NavLink>
+          </Menu.Item>
+        </Menu>
+      </Sider>
     );
   }
 }

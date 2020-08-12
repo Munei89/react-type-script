@@ -9,5 +9,5 @@
 @import './shared/components/userDetails/userDetailsInfo/user-details-info.scss';
 
 //pages scss
-@import './screens/dashboard/dashboard.scss';
-@import './screens/reports/reports.scss';
+@import 'screens/dashboard/dashboard.module';
+@import 'screens/reports/reports.module';

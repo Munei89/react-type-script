@@ -11,14 +11,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3793d88b-d6b0-4af0-8b2c-d0380ea101ed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/report.20200811.181959.48966.0.001.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-overrides.js" beforeDir="false" afterPath="$PROJECT_DIR$/config-overrides.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/configs/routes.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/configs/routes.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layout/header/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/layout/header/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layout/sidebar/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/layout/sidebar/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/dashboard/dashboard.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/dashboard/dashboard.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/dashboard/dashboard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/dashboard/dashboard.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/reports/reports.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/reports/reports.module.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/screens/reports/reports.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/reports/reports.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsconfig.paths.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.paths.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tslint.json" beforeDir="false" afterPath="$PROJECT_DIR$/tslint.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597201586891</updated>
-      <workItem from="1597201589187" duration="9457000" />
+      <workItem from="1597201589187" duration="12998000" />
     </task>
     <servers />
   </component>
