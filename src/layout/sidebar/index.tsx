@@ -2,6 +2,7 @@ import React from 'react';
 import { Layout, Menu } from 'antd';
 import { RouteComponentProps, withRouter } from 'react-router';
 import { NavLink } from 'react-router-dom';
+import styles from './sidebar.module.scss';
 
 const { Sider } = Layout;
 // Type whatever you expect in 'this.props.match.params.*'
@@ -20,7 +21,6 @@ class Sidebar extends React.Component<PropsType> {
   };
   render() {
     const { location } = this.props;
-    const { collapsed } = this.state;
 
     return (
       <Sider
@@ -33,10 +33,8 @@ class Sidebar extends React.Component<PropsType> {
           console.log(collapsed, type);
         }}
       >
-        <div className="logo">
-          <h2>
-            Bank<strong>Now</strong>
-          </h2>
+        <div className={styles['logo']}>
+          <h2>QDB</h2>
         </div>
         <Menu theme="dark" mode="inline" defaultSelectedKeys={[location.pathname]}>
           <Menu.Item key="/dashboard">

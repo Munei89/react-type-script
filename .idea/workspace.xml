@@ -6,22 +6,26 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:setup" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
     </expand>
     <select />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3793d88b-d6b0-4af0-8b2c-d0380ea101ed" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/layout/header/header.module.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/configs/routes.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/configs/routes.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/layout/header/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/layout/header/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layout/header/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/components/userDetails/userDetails.module.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/layout/sidebar/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/layout/sidebar/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/screens/dashboard/dashboard.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/dashboard/dashboard.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/screens/dashboard/dashboard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/dashboard/dashboard.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/screens/reports/reports.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/reports/reports.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/screens/reports/reports.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/reports/reports.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layout/sidebar/sidebar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/layout/sidebar/sidebar.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/components/userDetails/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/components/userDetails/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/components/userDetails/user-details.scss" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,17 +59,17 @@
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/redux" />
-      <recent name="$PROJECT_DIR$/src/layout" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/screens" />
       <recent name="$PROJECT_DIR$/src/redux" />
       <recent name="$PROJECT_DIR$/src/configs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/redux" />
+      <recent name="$PROJECT_DIR$/src/layout" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -105,6 +109,10 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="578" y="279" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1050/-1920.0.1920.1080@0.0.1680.1050" timestamp="1597202916648" />
+    <state x="492" y="310" key="EditFileWatcherDialog" timestamp="1597224816544">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="492" y="310" key="EditFileWatcherDialog/0.0.1680.1050/-1920.0.1920.1080@0.0.1680.1050" timestamp="1597224816544" />
     <state x="64" y="0" key="FileDocumentManager.FileCacheConflict" timestamp="1597205602790">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>

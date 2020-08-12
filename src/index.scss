@@ -3,9 +3,9 @@
 
 //components
 @import './styles/main.scss';
-@import './layout/sidebar/sidebar.scss';
+@import 'layout/sidebar/sidebar.module';
 @import './shared/components/spinner/spinner.scss';
-@import './shared/components/userDetails/user-details.scss';
+@import 'shared/components/userDetails/userDetails.module';
 @import './shared/components/userDetails/userDetailsInfo/user-details-info.scss';
 
 //pages scss
