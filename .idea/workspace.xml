@@ -16,16 +16,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3793d88b-d6b0-4af0-8b2c-d0380ea101ed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/layout/header/header.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/configs/routes.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/configs/routes.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/layout/header/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/layout/header/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/layout/header/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/components/userDetails/userDetails.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/layout/sidebar/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/layout/sidebar/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/layout/sidebar/sidebar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/layout/sidebar/sidebar.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/components/userDetails/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/components/userDetails/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/components/userDetails/user-details.scss" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,17 +51,17 @@
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/redux" />
+      <recent name="$PROJECT_DIR$/src/layout" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/screens" />
       <recent name="$PROJECT_DIR$/src/redux" />
       <recent name="$PROJECT_DIR$/src/configs" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/redux" />
-      <recent name="$PROJECT_DIR$/src/layout" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -99,6 +91,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="558" y="334" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597202563415">
@@ -127,7 +120,6 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/layout/sidebar/index.tsx</url>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
