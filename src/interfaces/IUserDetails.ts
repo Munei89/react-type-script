@@ -1,4 +1,4 @@
-interface IItem {
+export default interface IUserDetails {
   id: number;
   name: string;
   email: string;

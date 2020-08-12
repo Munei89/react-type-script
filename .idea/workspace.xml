@@ -11,33 +11,58 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3793d88b-d6b0-4af0-8b2c-d0380ea101ed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/layout/sidebar/Sidebar.test.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/layout/sidebar/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/layout/sidebar/sidebar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/screens/home/Home.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/components/spinner/Spinner.test.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/components/spinner/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/components/spinner/spinner.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/components/userDetails/UserDetails.test.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/components/userDetails/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/components/userDetails/user-details.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/components/userDetails/userDetailsInfo/UserDetailsInfo.test.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/components/userDetails/userDetailsInfo/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/components/userDetails/userDetailsInfo/user-details-info.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env.template" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report.20200811.181959.48966.0.001.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report.20200812.101222.93640.0.001.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/configs/config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/reports.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/IUserDetails.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/dashboard/dashboard.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/dashboard/dashboard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/reports/reports.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/reports/reports.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-overrides.js" beforeDir="false" afterPath="$PROJECT_DIR$/config-overrides.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/configs/i18n.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/configs/i18n.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/configs/routes.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/configs/routes.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constants/general.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/constants/general.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/icons.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/icons.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/layout/header/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/layout/header/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/layout/header/styles.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/screens/home/Home.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/screens/home/Home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/home/Home.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/base.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/base.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/generic.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/generic.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/settings.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/settings.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/tools.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/trumps.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/layout/header/styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layout/sidebar/Sidebar.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/layout/sidebar/Sidebar.test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layout/sidebar/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/layout/sidebar/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/locales/en/constants/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/locales/en/constants/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/locales/en/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/locales/en/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/locales/en/layout/header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/locales/en/layout/header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/locales/en/layout/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/locales/en/layout/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/locales/en/screens/home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/locales/en/screens/home.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/locales/en/screens/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/locales/en/screens/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/locales/en/shared/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/locales/en/shared/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/locales/en/shared/search_bar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/locales/en/shared/search_bar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react-app-env.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/react-app-env.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/actions/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/actions/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/actions/list.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/actions/list.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/api/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/api/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/api/list.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/api/list.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/reducers/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/reducers/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/sagas/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/sagas/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/sagas/list.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/sagas/list.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/store.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/store.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/schemas/Item.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/schemas/Item.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/schemas/ReducerStates.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/schemas/ReducerStates.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/home/Home.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/home/Home.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/serviceWorker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/components/data_entry/ListItem/styles.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/helpers.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/helpers.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.paths.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.paths.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tslint.json" beforeDir="false" afterPath="$PROJECT_DIR$/tslint.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,8 +80,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/shared/components" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.stylelint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -67,18 +93,20 @@
     <property name="node.js.selected.package.stylelint" value="$PROJECT_DIR$/node_modules/stylelint" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/screens" />
+      <recent name="$PROJECT_DIR$/src/redux" />
+      <recent name="$PROJECT_DIR$/src/configs" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/redux" />
       <recent name="$PROJECT_DIR$/src/layout" />
       <recent name="$PROJECT_DIR$" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/shared/components" />
-      <recent name="$PROJECT_DIR$/src/screens" />
-      <recent name="$PROJECT_DIR$/src" />
-      <recent name="$PROJECT_DIR$/src/styles" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -91,7 +119,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597201586891</updated>
-      <workItem from="1597201589187" duration="1794000" />
+      <workItem from="1597201589187" duration="12998000" />
     </task>
     <servers />
   </component>
@@ -118,6 +146,14 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="578" y="279" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1050/-1920.0.1920.1080@0.0.1680.1050" timestamp="1597202916648" />
+    <state x="64" y="0" key="FileDocumentManager.FileCacheConflict" timestamp="1597205602790">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="64" y="0" key="FileDocumentManager.FileCacheConflict/0.0.1680.1050/-1920.0.1920.1080@0.0.1680.1050" timestamp="1597205602790" />
+    <state x="541" y="280" width="598" height="490" key="find.popup" timestamp="1597207170574">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="541" y="280" width="598" height="490" key="find.popup/0.0.1680.1050/-1920.0.1920.1080@0.0.1680.1050" timestamp="1597207170574" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

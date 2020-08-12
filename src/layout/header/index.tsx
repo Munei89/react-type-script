@@ -1,13 +1,16 @@
 import React from 'react';
-import { useTranslation } from 'react-i18next';
-import { PageHeader } from 'antd';
+import { Layout, Menu } from 'antd';
 
 import './styles.scss';
 
-const Header = () => {
-  const { t } = useTranslation('header');
+const { Header } = Layout;
 
-  return <PageHeader title={t('title')} />;
+const MainHeader = () => {
+  return (
+    <Header>
+      <h2>QDB</h2>
+    </Header>
+  );
 };
 
-export default Header;
+export default MainHeader;

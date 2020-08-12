@@ -1,11 +1,10 @@
+import axios from 'axios';
+import config from '../../configs/config';
 type APIFetchList = () => Promise<IItem[]>;
 
 export const fetchList: APIFetchList = async () => {
-  const list: IItem[] = await new Promise(resolve => {
-    setTimeout(() => {
-      resolve([{ id: 1, name: 'item1' }, { id: 2, name: 'item2' }, { id: 3, name: 'item3' }]);
-    }, 1000);
-  });
-
+  const response = await axios.get(config.BASE_URL + '/users/1');
+  localStorage.setItem('user', JSON.stringify(response.data));
+  const list: IItem[] = [response.data];
   return list;
 };
