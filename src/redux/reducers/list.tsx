@@ -3,7 +3,7 @@ import { FETCH_LIST_SUCCESS } from '../actions';
 type Props = {
   type: string;
   payload: IItem[];
-}
+};
 
 const INITIAL_STATE: IItem[] = [];
 
