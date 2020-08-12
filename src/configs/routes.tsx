@@ -3,7 +3,7 @@ import Sidebar from '../layout/sidebar';
 import { Switch, Route } from 'react-router-dom';
 import { ConnectedRouter } from 'connected-react-router';
 import { Provider } from 'react-redux';
-import { Layout, Menu } from 'antd';
+import { Layout } from 'antd';
 import MainHeader from '@layout/header';
 import store, { history } from '../redux/store';
 

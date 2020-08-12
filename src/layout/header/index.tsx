@@ -1,14 +1,14 @@
 import React from 'react';
-import { Layout, Menu } from 'antd';
+import { Layout } from 'antd';
 
-import './styles.scss';
+import styles from './header.module.scss';
 
 const { Header } = Layout;
 
 const MainHeader = () => {
   return (
     <Header>
-      <h2>QDB</h2>
+      <h2 className={styles['header']}>BANKING PLATFORM</h2>
     </Header>
   );
 };
