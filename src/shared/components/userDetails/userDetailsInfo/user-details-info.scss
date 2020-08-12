@@ -1,0 +1,9 @@
+.user-details-info-row {
+  display: flex;
+
+  &-name {
+    font-weight: bold;
+    margin-right: 5px;
+    text-transform: capitalize;
+  }
+}
