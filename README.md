@@ -29,6 +29,8 @@ React Users in Ant Design UI framework
 
 Run the following commands in your terminal
 
+Add `.env` file to root folder with <br /> `REACT_APP_BASE_URL="https://jsonplaceholder.typicode.com"`
+
 ```bash
 yarn install
 yarn start
